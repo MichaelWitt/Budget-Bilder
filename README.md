@@ -12,20 +12,19 @@ Thanks for stopping in!
 
 ## Application
 
-Budget Bilder: https://wit-workouts.herokuapp.com/
+Budget Bilder: https://budget-bilder.herokuapp.com/
 
-<!-- Welcome: ![Screenshot](./public/imgs/welcome.png)
-Demo: ![Screenshot](./public/imgs/demo.png) -->
+Welcome: ![Screenshot](./public/imgs/budget-bilder.png)
 
 ## Build Details
 
-This application was developed using:
+This application was developed using: JavaScript, Progressive Web Applications, Service Worker, Node.js, Manifest, indexedDB, icons, API routes, Express, and more! 
 
 ## Repository & Preview
 
 View the repository at: https://github.com/MichaelWitt/Budget-Bilder
 
-<!-- Preview: ![Screenshot](./public/imgs/stats.png) -->
+Preview: ![Screenshot](./public/imgs/demo.png)
 
 ## Updates
 
